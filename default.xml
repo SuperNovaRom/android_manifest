@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch=".." />
+           fetch="https://android-review.googlesource.com/" />
   <remote  name="supernova"
            fetch="git://github.com/SamueleCiprietti" />
   <default revision="refs/tags/android-4.4.4_r2.0.1"
